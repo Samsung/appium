@@ -167,7 +167,7 @@ Appium 1.7.1 fixes multiple issues with the previous release.
 #### Android
 * Add support to force upgrade settings app
 * Always assumes the file to be pushed by `pushFile` command contains binary data
-* Add ADB option to to force reinstall on upgrade
+* Add ADB option to force reinstall on upgrade
 
 #### Android - UiAutomator 2
 * Do not proxy getting app strings
