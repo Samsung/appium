@@ -456,7 +456,7 @@ Appium 1.7.1 fixes multiple issues with the previous release.
 #### Android
 * Add support to force upgrade settings app
 * Always assumes the file to be pushed by `pushFile` command contains binary data
-* Add ADB option to to force reinstall on upgrade
+* Add ADB option to force reinstall on upgrade
 
 #### Android - UiAutomator 2
 * Do not proxy getting app strings
@@ -482,7 +482,7 @@ CHANGES IN VERSION 1.7.0 (from 1.6.5)
 
 #### General
 * Fix handling of sending keys to elements in recent versions of Selenium
-* Allow `app` capability that is a url to have query parameters
+* Allow `app` capability that is an url to have query parameters
 * Begin to allow multiple device support in situations where it is possible
   (e.g., iOS under Xcode 9)
 * Add `isHeadless` capability to allow running simulator/emulator with no UI
